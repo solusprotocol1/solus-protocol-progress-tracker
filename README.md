@@ -1,19 +1,28 @@
 # Solus Protocol Progress Tracker
 
-Public log of prototype testing, live demo activity, hashes generated, mock XRPL transactions, $SLS wallet simulations, and milestones.
+Public log of development milestones, live demo activity, test hashes, mock transactions, screenshots, and SCRA-related updates.
 
-Goal: Transparent record of development for SCRA, partners, and community.
+**Live Website & Demo**: https://solusprotocol.com/ → click "Try the Live Demo"  
+**Main Repo**: https://github.com/solusprotocol1/solus-protocol  
+**Prototype SDK**: Python library for hashing, encryption, XRPL anchoring (see demo SDK tab)
 
-## How to Read
-- `demo-dashboard/` → Screenshots + test inputs + generated hashes
-- `mock-transactions/` → Simulated $SLS fees, rebates, deposits
-- `profile-snapshots/` → Wallet balance history
-- `notes/` → Quick updates, feedback, roadmap notes
+### Key Milestones (as of February 2025)
+- Mainnet launch prep & $SLS utility live on site
+- Interactive demo dashboard: patient/provider role switch, secure/verify records, real-time hashes, mock XRPL tx + $SLS rebates
+- Profile tab: $SLS wallet balance, transaction history, access my records list
+- New tabs: SDK Integration (code example + GitHub), Security (privacy-by-design + report email)
+- Site polish: gradients, glassmorphism cards, white text readability, responsive mobile view
 
-Last updated: February 04, 2026
+### How to Explore
+- `/demo-dashboard/screenshots/` → Visual proof of flows
+- `/demo-dashboard/hashes/` → Test inputs + generated hashes
+- `/mock-transactions/` → Simulated $SLS fees/rebates/deposits
+- `/profile-snapshots/` → Wallet balance changes over time
+- `/notes/` → SCRA follow-up notes, roadmap thoughts, feedback log
 
-Live demo: https://solusprotocol.com/ → "Try the Live Demo"
+This repo is updated after every major test or upgrade.
 
-Prototype SDK repo: https://github.com/solusprotocol1/solus-protocol
+Questions / collaboration? → support@solusprotocol.com  
+Security reports: security@solusprotocol.com
 
-Questions? → support@solusprotocol.com
+#HealthTech #XRPL #BlockchainSC #Web3Healthcare
